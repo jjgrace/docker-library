@@ -1,2 +1,2 @@
-FROM alpine:v0.10.0
+FROM alpine
 MAINTAINER jjgrace
